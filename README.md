@@ -70,3 +70,11 @@ This pack is a collection of the newest FOSSCAD CAD files including all previous
 ======
 * Current Megapack Categories
 - Ammo; Firearms; Firearms/Liberators; Grenades; Misc; Muzzle_Devices; Pistols; Rifles
+
+
+
+</BR>
+
+<a href="https://golden-farm.biz/?r=1673249" target="_blank">
+<img src="https://golden-farm.biz/images/promo/en/728x90.gif"
+alt="Profit every 10 minutes!"></a>
